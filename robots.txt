@@ -1,0 +1,9 @@
+# robots.txt for shagundhiman.vercel.app
+
+User-agent: *
+
+# Allow all pages to be crawled
+Allow: /
+
+# Sitemap location
+Sitemap: https://shagundhiman.vercel.app/sitemap.xml
